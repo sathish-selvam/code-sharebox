@@ -1,0 +1,22 @@
+{
+  "name": "code-sharebox",
+  "version": "1.0.0",
+  "description": "Allows us to capture the snippet our code and convert that into shareable image",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathish-selvam/code-sharebox.git"
+  },
+  "author": "Sathish Selvam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sathish-selvam/code-sharebox/issues"
+  },
+  "homepage": "https://github.com/sathish-selvam/code-sharebox#readme",
+  "dependencies": {
+    "codemirror": "^5.65.0"
+  }
+}
